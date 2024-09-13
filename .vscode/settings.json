@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    "**/*.rpyc": true,
+    "**/*.rpa": true,
+    "**/*.rpymc": true,
+    "**/cache/": true,
+    "**/audio/": true,
+    "**/gui/": true,
+    "**/images/": true,
+    "**/saves/": true,
+    "**/tl/": true
+  }
+}

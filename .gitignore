@@ -1,0 +1,9 @@
+*.rpyc
+*.rpa
+*.rpymc
+cache
+audio
+gui
+images
+saves
+tl
